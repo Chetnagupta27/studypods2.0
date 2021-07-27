@@ -1,34 +1,42 @@
-# studypods2.0
-
-<h1>Study Pods 2.0</h1>
-<table style="width:100%">
-  <caption>Monthly savings</caption>
-  <tr>
-    <th>S.NO.</th>
-    <th>DATE</th>
-    <th>TODAY'S WORK<\th>
-      <th>PROBLEM<\th>
-        <th>SOLUTION<\th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>27-07-21</td>
-    <td>CSS color styling</td>
-    <td>image tag</td>
-    <td>google</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-     <td></td>
-     <td></td>
-     <td></td>
-  </tr>
-          <tr>
-             <td></td>
-             <td></td>
-             <td></td>
-             <td></td>
-             <td></td>
-            <\tr>
-</table>
+# Studypod2.0
+<body>
+     <div>
+    <p><b>Name : </b><i>Chetna Gupta</i></p>
+    <p><b>Branch : </b><i>IT</i></p>
+    <p><b>Year : </b><i>1st</i></p>
+    <p><b>SP No. : </b><i>SP0201</i></p>
+    <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
+</div>
+    <div>
+    <table border="5">
+        <caption style="font-size: 30px;"><b>STUDYPOD2.0 DAILY REPORT</b> </caption>
+        <thead>
+            <tr>
+                <th width="350">S.No</th>
+                <th width="350">Date</th>
+                <th width="350">File Name</th>
+                <th width="350">Today's Task</th>
+                <th width="350">Difficulty</th>
+                <th width="350">Solution</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>26/07/2021</td>
+                    <td>CSS used in Exam form</td>
+                    <td>CSS::external,internal,<br>inline stlye,comments</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>27/07/2021</td>
+                    <td>Styling</image></td>
+                    <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
