@@ -4,15 +4,31 @@
 <table style="width:100%">
   <caption>Monthly savings</caption>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th>S.NO.</th>
+    <th>DATE</th>
+    <th>TODAY'S WORK<\th>
+      <th>PROBLEM<\th>
+        <th>SOLUTION<\th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>1</td>
+    <td>27-07-21</td>
+    <td>CSS color styling</td>
+    <td>image tag</td>
+    <td>google</td>
   </tr>
   <tr>
-    <td>February</td>
-    <td>$50</td>
+    <td></td>
+    <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
   </tr>
+          <tr>
+             <td></td>
+             <td></td>
+             <td></td>
+             <td></td>
+             <td></td>
+            <\tr>
 </table>
