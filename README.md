@@ -2,7 +2,7 @@
 <body>
      <div>
     <p><b>Name : </b><i>Chetna Gupta</i></p>
-    <p><b>Branch : </b><i>IT</i></p>
+    <p><b>Branch : </b><i>CSe</i></p>
     <p><b>Year : </b><i>1st</i></p>
     <p><b>SP No. : </b><i>SP0201</i></p>
     <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
@@ -23,19 +23,27 @@
                 <tr>
                     <td>1</td>
                     <td>26/07/2021</td>
-                    <td>CSS used in Exam form</td>
-                    <td>CSS::external,internal,<br>inline stlye,comments</td>
+                    <td>first.html</td>
+                    <td>form in html and design it</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>2</td>
                     <td>27/07/2021</td>
-                    <td>Styling</image></td>
-                    <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
+                    <td>first.html</td>
+                    <td>design a page (girl child education)</td>
                     <td>NO</td>
                     <td></td>
-                </tr>
+         </tr>
+     <tr>
+          <td>3</td>
+          <td>28/07/21</td>
+          <td></td>
+          <td>introduction to css,just beginning</td>
+          <td>No</td>
+          <td></td>
+          <tr/>  
             </tbody>
         </table>
     </div>
