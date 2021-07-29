@@ -26,15 +26,15 @@
                     <td>first.html</td>
                     <td>form in html and design it</td>
                     <td>NO</td>
-                    <td></td>
+                    <td>-</td>
                 </tr>
                 <tr>
                     <td>2</td>
                     <td>27/07/2021</td>
                     <td>first.html</td>
-                    <td>design a page (girl child education)</td>
+                     <td>design a page (girl child education)</td>
                     <td>NO</td>
-                    <td></td>
+                    <td-></td>
          </tr>
      <tr>
           <td>3</td>
@@ -42,8 +42,17 @@
           <td>boss aaj ki to koi file hi ni bani </td>
           <td>introduction to css,just beginning</td>
           <td>No</td>
-          <td></td>
+          <td>-</td>
           <tr/>  
+                  <tr>
+                      <td>3</td>
+                      <td>29/07/21</td>
+                      <td>second.html</td>
+                      <td>backgroung color;text color;styling</td>
+                      <td>no</td>
+                       <td>-</td>
+                 </tr>
+                       
             </tbody>
         </table>
     </div>
