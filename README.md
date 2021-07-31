@@ -63,7 +63,7 @@
                            <td>5</td>
                             <td>31/07/21</td>
                             <td>forth.html</td>
-                            <td>text,font,mardin,padding,border,box model,etc.</td>
+                            <td>text,font,margin,padding,border,box model,etc.</td>
                             <td>no</td>
                             <td>-</td>
                            </tr>
