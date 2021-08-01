@@ -10,7 +10,7 @@
     <div>
     <table border="5">
         <caption style="font-size: 30px;"><b>STUDYPOD2.0 DAILY REPORT</b> </caption>
-        <thead
+        <thead>
                 <th width="350">S.No</th>
                 <th width="350">Date</th>
                 <th width="350">File Name</th>
