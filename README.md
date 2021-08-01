@@ -16,7 +16,7 @@
                 <th width="350">File Name</th>
                 <th width="350">Task</th>
                 <th width="350">Difficulty</th>
-                <th width="350">Solution</th>
+         <th width="350">Solution</th>
             </thead>
             <tbody>
                   <tr>
