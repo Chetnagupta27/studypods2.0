@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        ul{
+            padding: 34px;
+        }
+        li{
+            list-style:none;
+            display: inline;
+           padding: 0 43px;
+        }
+        header{
+            background-color: black;
+            color: white;
+        }
+        .left{
+            height:80vh;
+            width:40vw;
+            float:left;
+            background-color: blueviolet;
+        }
+        .right{
+            height:80vh;
+            width:40vw;
+            float:right;
+            background-color: cyan;
+        }
+        .container{
+            display: flex;
+            justify-content:space-between;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>home</li>
+                <li>about</li>
+                <li>contact us</li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+<div class="left">Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio quod, magnam beatae quasi perferendis assumenda at porro dolorum adipisci deserunt nostrum repellendus blanditiis fugit voluptatem ab eum? Quos aperiam maiores qui atque provident voluptas.</div>
+<div class="right">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae nesciunt adipisci ab eligendi laudantium odio, quo, rem, debitis vel cupiditate tempora ad eaque eveniet rerum facere voluptatem voluptatibus numquam. Ullam cumque a laboriosam possimus labore impedit aliquid. Impedit eum, explicabo debitis odit esse eligendi ipsa culpa doloribus repellendus maxime voluptates rem distinctio voluptate quod. Optio, voluptatem.</div>
+
+    </div>
+    
+ 
+    <style>
+     .container{
+         display: grid;
+         background-color: darkgoldenrod;
+         grid-row-gap:9px;
+         grid-column-gap:9px ;
+         grid-template-columns: auto auto;
+        }
+     .item{
+         background-color: darkolivegreen;
+         border: 3px double black;
+     }
+    </style>
+</head>
+<body>
+    <div class="container">
+      <div class="item">1</div>
+      <div class="item">2</div>
+      <div class="item">3</div>
+      <div class="item">4</div>
+</div>
+</body>
+</html>
