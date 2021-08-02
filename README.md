@@ -114,6 +114,14 @@
 <td>no</td>
 <td>-</td>
 </tr>
+                                 <tr>
+<td>13</td>
+<td>02/08/21</td>
+<td>seventh.html</td>
+<td>css grid and media queries</td>
+<td>no</td>
+<td>-</td>
+</tr>
 
                        
            
