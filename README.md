@@ -105,9 +105,9 @@
                             <td>text,font,margin,padding,border,box model,etc.</td>
                             <td>no</td>
                             <td>-</td>
-                           </tr>
-                 <tr>
-<td>12</td>
+                       </r>
+                           <tr>
+                              <td>12</td>
 <td>01/08/21</td>
 <td>fifth.html</td>
 <td>position,list,flexbox</td>
@@ -138,6 +138,14 @@
 <td>no</td>
 <td>-</td>
 </tr>
+          <tr>
+              <td>16</td>
+              <td>05/08/21</td>
+              <td>tourist places of rajasthan</td>
+              <td>project discussion ansd project work started</td>
+              <td>no</td>
+              <td>-</td>
+          </tr>
                        
                        
 
