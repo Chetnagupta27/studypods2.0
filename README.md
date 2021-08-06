@@ -146,6 +146,16 @@
               <td>no</td>
               <td>-</td>
           </tr>
+          <tr>
+              <td>17</td>
+              <td>06/08/21</td>
+              <td>mini project.html</td>
+              <td>working on project</td>
+              <td>background  image fixing</td>
+              <td>teammates solved that problem</td>
+          </tr>
+                       
+                       
                        
                        
 
