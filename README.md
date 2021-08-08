@@ -154,6 +154,22 @@
               <td>background  image fixing</td>
               <td>teammates solved that problem</td>
           </tr>
+         <tr>
+              <td>18</td>
+              <td>07/08/21</td>
+              <td>rajasthan project.html</td>
+              <td>working on project</td>
+              <td>-</td>
+              <td>-</td>
+          </tr>
+<tr>
+              <td>19</td>
+              <td>08/08/21</td>
+              <td>Project 1.html</td>
+              <td>Project completed</td>
+              <td>-</td>
+              <td>-</td>
+          </tr>
                        
                        
                        
