@@ -162,11 +162,35 @@
               <td>-</td>
               <td>-</td>
           </tr>
-<tr>
+          <tr>
               <td>19</td>
               <td>08/08/21</td>
               <td>Project 1.html</td>
               <td>Project completed</td>
+              <td>-</td>
+              <td>-</td>
+          </tr>
+         <tr>
+              <td>20</td>
+              <td>09/08/21</td>
+              <td>-</td>
+              <td>main project discussion</td>
+              <td>-</td>
+              <td>-</td>
+          </tr>
+         <tr>
+              <td>21</td>
+              <td>10/08/21</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+          </tr>
+         <tr>
+              <td>22</td>
+              <td>11/08/21</td>
+              <td>-</td>
+              <td>javascript started</td>
               <td>-</td>
               <td>-</td>
           </tr>
