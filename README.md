@@ -214,7 +214,7 @@
               <td>25</td>
               <td>14/08/21</td>
               <td>-</td>
-              <td>_</td>
+              <td>-</td>
               <td>-</td>
               <td>-</td>
           </tr>
@@ -222,7 +222,39 @@
               <td>26</td>
               <td>15/08/21</td>
               <td>-</td>
-              <td>_</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+          </tr>
+          <tr>
+              <td>27</td>
+              <td>16/08/21</td>
+              <td>-</td>
+              <td>statement and comment in js, let var and constant, datatype, if else, etc.</td>
+              <td>-</td>
+              <td>-</td>
+          </tr>
+          <tr>
+              <td>28</td>
+              <td>17/08/21</td>
+              <td>-</td>
+              <td>loops, string , array,etc.</td>
+              <td>-</td>
+              <td>-</td>
+          </tr>
+          <tr>
+              <td>29</td>
+              <td>18/08/21</td>
+              <td>-</td>
+              <td>function, parameter and argument,etc.</td>
+              <td>-</td>
+              <td>-</td>
+          </tr>
+          <tr>
+              <td>30</td>
+              <td>19/08/21</td>
+              <td>-</td>
+              <td>started working on main project</td>
               <td>-</td>
               <td>-</td>
           </tr>
